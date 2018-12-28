@@ -1,10 +1,17 @@
 {
   "name": "qaim/common",
   "description": "package comment api",
-  "license": "",
+  "license": "Apache-2.0",
   "type": "library",
-  "homepage": "http://zhangqingxi.cn/",
   "keywords": [ "qasim", "common", "qasim-common", "qasim/common"],
+  "authors": [
+        {
+            "name": "zhangqingxi",
+            "email": "qasim@15750783791.com",
+            "homepage": "http://zhangqingxi.cn",
+            "role": "Developer"
+        }
+    ]
   "autoload": {
     "files": [
       "base.php"
