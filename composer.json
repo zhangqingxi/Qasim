@@ -1,0 +1,16 @@
+{
+  "name": "qaim/common",
+  "description": "package comment api",
+  "license": "",
+  "type": "library",
+  "homepage": "http://zhangqingxi.cn/",
+  "keywords": [ "qasim", "common", "qasim-common", "qasim/common"],
+  "autoload": {
+    "files": [
+      "base.php",
+    ],
+  },
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
