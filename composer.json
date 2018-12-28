@@ -11,7 +11,7 @@
             "homepage": "http://zhangqingxi.cn",
             "role": "Developer"
         }
-    ]
+  ],
   "autoload": {
     "files": [
       "base.php"
