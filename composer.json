@@ -3,7 +3,10 @@
   "description": "package comment api",
   "license": "Apache-2.0",
   "type": "library",
-  "keywords": [ "qasim", "common", "qasim-common", "qasim/common"],
+  "keywords": [
+        "qasim",
+        "common",
+   ],
   "authors": [
         {
             "name": "zhangqingxi",
