@@ -5,7 +5,8 @@
   "type": "library",
   "keywords": [
         "qasim",
-        "common"
+        "common",
+        "php"
    ],
   "authors": [
         {
