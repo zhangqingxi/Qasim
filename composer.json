@@ -1,5 +1,5 @@
 {
-  "name": "php-qasim/common",
+  "name": "qasim/php-common",
   "description": "package comment api",
   "license": "Apache-2.0",
   "type": "library",
